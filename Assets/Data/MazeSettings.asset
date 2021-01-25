@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9407b44a00c4b944eb01a794d10172c3, type: 3}
+  m_Name: MazeSettings
+  m_EditorClassIdentifier: 
+  verticalWall: {fileID: 7582494817294165446, guid: b6c43b8cb4f3da34ab3642c7e813a18c, type: 3}
+  horizontalWall: {fileID: 7582494817294165446, guid: 2f01e7b270842864e96664a970af1437, type: 3}
+  floor: {fileID: 6511343090899285101, guid: 516eb9b454dabc24094e87007b0577d2, type: 3}
+  startPlatform: {fileID: 2325853992627272991, guid: f8a6df549232ee548bc78d17c05b832d, type: 3}
+  endPlatform: {fileID: 2325853992627272991, guid: 1569f3b3aa2a3304f8553354125d55dc, type: 3}
+  width: 6
+  length: 11
+  size: 1
+  currentDifficulty: 0
